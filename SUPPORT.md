@@ -21,4 +21,5 @@ production, or extended with new capabilities? I take on freelance engagements:
 **Contact:** open an issue tagged `consulting` on this repo, or reach me through
 my [GitHub profile](https://github.com/dkeeno).
 
-Typical engagement: $X/hr or fixed-price scoped projects. References on request.
+**Typical engagement:** open with a 15-minute intro call to scope the work —
+happy to quote fixed-price or hourly depending on what fits.
