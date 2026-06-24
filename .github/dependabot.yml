@@ -1,6 +1,10 @@
+# Dependabot — automated dependency-update PRs.
+# Cadence is monthly (not weekly): the github-actions ecosystem here changes
+# slowly, and weekly runs produced excessive PR + notification noise. Monthly
+# still surfaces security-relevant version bumps with ~4x less churn.
 version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
